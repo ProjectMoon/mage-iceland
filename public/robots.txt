@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://mage-iceland.thermetics.net/sitemap.xml

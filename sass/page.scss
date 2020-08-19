@@ -1,0 +1,6 @@
+//Overrides for the page template css.
+.page {
+    &__content {
+	max-width: 900px !important;
+    }
+}
