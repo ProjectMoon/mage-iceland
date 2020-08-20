@@ -13,13 +13,31 @@
         <loc>https://mage-iceland.thermetics.net/characters/players/</loc>
     </url>
     <url>
+        <loc>https://mage-iceland.thermetics.net/characters/supernatural-entities/</loc>
+    </url>
+    <url>
         <loc>https://mage-iceland.thermetics.net/home/</loc>
+    </url>
+    <url>
+        <loc>https://mage-iceland.thermetics.net/locations/</loc>
+    </url>
+    <url>
+        <loc>https://mage-iceland.thermetics.net/locations/capital-region/</loc>
+    </url>
+    <url>
+        <loc>https://mage-iceland.thermetics.net/locations/thingvellir/</loc>
     </url>
     <url>
         <loc>https://mage-iceland.thermetics.net/magic-of-iceland/</loc>
     </url>
     <url>
-        <loc>https://mage-iceland.thermetics.net/magic-of-iceland/mysteries/</loc>
+        <loc>https://mage-iceland.thermetics.net/magic-of-iceland/custom-spells/</loc>
+    </url>
+    <url>
+        <loc>https://mage-iceland.thermetics.net/magic-of-iceland/legacies/</loc>
+    </url>
+    <url>
+        <loc>https://mage-iceland.thermetics.net/magic-of-iceland/the-abyss/</loc>
     </url>
     <url>
         <loc>https://mage-iceland.thermetics.net/rules/</loc>
@@ -29,9 +47,6 @@
     </url>
     <url>
         <loc>https://mage-iceland.thermetics.net/rules/clarifications/</loc>
-    </url>
-    <url>
-        <loc>https://mage-iceland.thermetics.net/rules/custom-spells/</loc>
     </url>
     <url>
         <loc>https://mage-iceland.thermetics.net/rules/house-rules/</loc>

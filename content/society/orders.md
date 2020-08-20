@@ -1,9 +1,9 @@
 +++
-title = "Orders"
+title = "The Orders"
 weight = 3
 +++
 
-The Orders present in Iceland.
+The Pentacle has no useful presence in Iceland. Two Nameless Orders dominate mage politics on the island: Rúnafélagið and R6. The Seers of the Throne only have a token presence, and the other more mysterious Orders are not recorded to have any influence in Iceland at all.
 
 ## Rúnafélagið
 

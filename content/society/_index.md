@@ -1,6 +1,6 @@
 +++
 title = "Mage Society"
-weight = 3
+weight = 2
 sort_by = "weight"
 +++
 

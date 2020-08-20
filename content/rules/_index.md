@@ -1,6 +1,6 @@
 +++
 title = "Homebrew Rules"
-weight = 4
+weight = 5
 sort_by = "weight"
 +++
 
