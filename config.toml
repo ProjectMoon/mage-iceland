@@ -7,7 +7,7 @@ taxonomies = [
 ]
 
 # The URL the site will be built for
-base_url = "https://mage-iceland.thermetics.net/"
+base_url = "http://mage-iceland.thermetics.net/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
