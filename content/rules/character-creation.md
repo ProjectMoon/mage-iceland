@@ -7,7 +7,16 @@ These are the rules and guidelines for character creation in the game.
 
 ## Character Concept
 
-These guidelines apply to your new character concept.
+It is important to have a solid character concept. This usually begins with a few words or a short phrase. Then you flesh it out from there.
+
+It's important to have the following basic information about a character:
+
+ * Shadow Name and given name.
+ * Path.
+ * Age, gender, physical description.
+ * General idea of what happened during your Awakening. If you don't want to come up with this, I will come up with it for you.
+
+These guidelines apply to your character concept.
 
  * The character is a newly Awakened mage, and has had little to no contact with mage society in Iceland or abroad.
  * The character should have a reason to stay in Iceland indefinitely.
